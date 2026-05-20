@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Academy",
+  "description": "An elegant academic portal of course modules, video lectures, timeline-anchored annotations, and interactive review questionnaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
